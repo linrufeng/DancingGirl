@@ -1,0 +1,33 @@
+{
+  "name": "d",
+  "version": "1.0.0",
+  "description": "视觉元素",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js",
+    "dev": "webpack-dev-server -d --open --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linrufeng/DancingGirl.git"
+  },
+  "keywords": [
+    "three",
+    "canvas",
+    "lay",
+    "h5"
+  ],
+  "author": "罡风",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linrufeng/DancingGirl/issues"
+  },
+  "homepage": "https://github.com/linrufeng/DancingGirl#readme",
+  "devDependencies": {
+    "@types/node": "^10.9.3",
+    "@types/webpack": "^4.4.11",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.1",
+    "webpack": "^4.17.1"
+  }
+}
