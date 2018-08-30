@@ -26,8 +26,18 @@
   "devDependencies": {
     "@types/node": "^10.9.3",
     "@types/webpack": "^4.4.11",
+    "hexo-cli": "^1.1.0",
     "ts-node": "^7.0.1",
     "typescript": "^3.0.1",
-    "webpack": "^4.17.1"
+    "webpack": "^4.17.1",
+    "hexo": "^3.0.0",
+    "hexo-generator-archive": "^0.1.0",
+    "hexo-generator-category": "^0.1.0",
+    "hexo-generator-index": "^0.1.0",
+    "hexo-generator-tag": "^0.1.0",
+    "hexo-renderer-ejs": "^0.1.0",
+    "hexo-renderer-stylus": "^0.2.0",
+    "hexo-renderer-marked": "^0.2.4",
+    "hexo-server": "^0.1.2"
   }
 }
