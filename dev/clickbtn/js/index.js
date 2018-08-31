@@ -48,8 +48,3 @@ class Waves{
         }
       };
 }
-let a = new Waves({
-    name:'李林森'
-})
-a.play()
-console.log(a.output())
